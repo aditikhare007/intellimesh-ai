@@ -1,5 +1,5 @@
 # 🤖 IntelliMesh AI — Agentic Decision Systems  
-### DecisionCore · Agent Mesh · Document Intelligence Platform  
+### DecisionCore · Agent Mesh · Decision Intelligence Systems
 
 ### 🌐 [AditiKhare.com — Enterprise AI Product Ecosystem | Decision Intelligence](https://aditikhare.com)
 
